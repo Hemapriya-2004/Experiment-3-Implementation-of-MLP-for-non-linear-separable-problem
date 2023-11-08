@@ -124,5 +124,5 @@ predict(w1,w2,test)
 
 ![image](https://github.com/Hemapriya-2004/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/94184828/292faffe-0054-4c4c-bec3-fc9f95b09ed6)
 
-** RESULT**
+## RESULT
 Thus a MLP is implemented for non linear separable problem using Python.
